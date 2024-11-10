@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... game development
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... im a noob, wiiling to learn and i'm also a student 
+- ⚡ Fun fact: ... i'm a noob, willing to learn, i'm also a student 
 
 <!---
 marqwkcy/marqwkcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
